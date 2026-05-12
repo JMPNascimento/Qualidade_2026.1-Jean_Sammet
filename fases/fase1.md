@@ -56,4 +56,4 @@ De acordo com as características escolhidas separamos suas subcaracterísticas 
 
 ---
 ## Bibliografia
-ISO. **ISO/IEC 25010:2023 — Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model. ** International Organization for Standardization, 2023. Disponível em: [https://www.iso.org/obp/ui/en/#iso:std:iso-iec:25010:ed-2:v1:en](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:25010:ed-2:v1:en).
+ISO. **ISO/IEC 25010:2023 — Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model.** International Organization for Standardization, 2023. Disponível em: [https://www.iso.org/obp/ui/en/#iso:std:iso-iec:25010:ed-2:v1:en](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:25010:ed-2:v1:en).
