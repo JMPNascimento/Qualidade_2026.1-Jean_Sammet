@@ -39,4 +39,9 @@ O AcheiUnB pode ser classificado como um software web de código aberto, de natu
 
 ## 4. Propósito da avaliação
 
-O propósito é avaliar a qualidade do AcheiUnB com ênfase nas características de {Nome da característica 1} e {Nome da característica 2}. Ademais, pode-se também verificar se a plataforma cumpre bem seu papel de centralizar o registro e a recuperação de itens perdidos na UnB, oferecendo uma experiência funcional, organizada e adequada ao uso pela comunidade acadêmica. 
+O propósito é avaliar a qualidade do AcheiUnB com ênfase nas características de confiabilidade, manutenibilidade e segurança. Ademais, pode-se também verificar se a plataforma cumpre bem seu papel de centralizar o registro e a recuperação de itens perdidos na UnB, oferecendo uma experiência funcional, organizada e adequada ao uso pela comunidade acadêmica. 
+
+
+---
+## Bibliografia
+ISO. **ISO/IEC 25010:2023 — Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model. ** International Organization for Standardization, 2023. Disponível em: [https://www.iso.org/obp/ui/en/#iso:std:iso-iec:25010:ed-2:v1:en](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:25010:ed-2:v1:en).
