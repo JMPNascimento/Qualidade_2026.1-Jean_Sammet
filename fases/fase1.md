@@ -44,9 +44,13 @@ O propósito é avaliar a qualidade do AcheiUnB com ênfase nas características
 ---
 
 ## 5. Modelo de qualidade e descrição
-Em Confiabilidade, as subcaracterísticas analisadas serão maturidade, observando a estabilidade do sistema por meio da quantidade de execuções do pipeline de testes CI/CD e da cobertura de código medida pelo Codecov, disponibilidade, avaliando a capacidade do sistema de permanecer operacional por meio da containerização com Docker Compose, e tolerância a falhas, analisando a capacidade do sistema de continuar operando mesmo diante de falhas parciais, observada pelo uso do Celery.
-Em Manutenibilidade, as subcaracterísticas escolhidas são modularidade, verificando a separação clara entre as camadas da aplicação (diretórios /API, /web e /docs) e testabilidade, analisando a presença de testes automatizados configurados via pytest.ini integrados ao pipeline de integração contínua do GitHub Actions.
-Em Segurança, as subcaracterísticas analisadas serão autenticidade, avaliando o mecanismo de autenticação institucional implementado via Microsoft MSAL vinculado ao login da Universidade de Brasília, garantindo que apenas usuários pertencentes à comunidade acadêmica da UnB possam acessar a plataforma, e confidencialidade, verificando o uso de variáveis de ambiente protegidas via arquivo .env e a configuração de credenciais sensíveis como Client ID e Client Secret isolados do código-fonte.
+
+De acordo com as características escolhidas separamos suas subcaracterísticas no modelo de qualidade que serão avaliadas durante as fases e que tem relação entre elas.
+* Em Confiabilidade, as subcaracterísticas analisadas serão maturidade, observando a estabilidade do sistema por meio da quantidade de execuções do pipeline de testes CI/CD e da cobertura de código medida pelo Codecov, disponibilidade, avaliando a capacidade do sistema de permanecer operacional por meio da containerização com Docker Compose, e tolerância a falhas, analisando a capacidade do sistema de continuar operando mesmo diante de falhas parciais, observada pelo uso do Celery.
+  
+* Em Manutenibilidade, as subcaracterísticas escolhidas são modularidade, verificando a separação clara entre as camadas da aplicação (diretórios /API, /web e /docs) e testabilidade, analisando a presença de testes automatizados configurados via pytest.ini integrados ao pipeline de integração contínua do GitHub Actions.
+  
+* Em Segurança, as subcaracterísticas analisadas serão autenticidade, avaliando o mecanismo de autenticação institucional implementado via Microsoft MSAL vinculado ao login da Universidade de Brasília, garantindo que apenas usuários pertencentes à comunidade acadêmica da UnB possam acessar a plataforma, e confidencialidade, verificando o uso de variáveis de ambiente protegidas via arquivo .env e a configuração de credenciais sensíveis como Client ID e Client Secret isolados do código-fonte.
 
 ![Modelo de qualidade](../images/modelo_qualidade.jpg)
 
